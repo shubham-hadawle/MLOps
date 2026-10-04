@@ -2,7 +2,7 @@
 
 ## Overview
 
-Welcome to the MLOps Repository! This repository is dedicated to sharing reading contents, labs and exercises for MLOps (Machine Learning Operations). The primary goal of this repository is to provide a centralized platform for anyone interested in MLOps to access and collaborate on related materials. You can learn more on Machine learning topics by watching videos on [Youtube](https://www.youtube.com/channel/UCCGbsdfmgmhMLs-tjOtOp0Q). 
+Welcome to the MLOps Repository! This repository is dedicated to sharing reading contents, labs and exercises for MLOps (Machine Learning Operations). The primary goal of this repository is to provide a centralized platform for anyone interested in MLOps to access and collaborate on related materials. You can learn more on Machine learning topics by watching videos on [Youtube](https://www.youtube.com/channel/UCCGbsdfmgmhMLs-tjOtOp0Q) or follow this [Playlist](https://youtube.com/playlist?list=PLupK5DK91flV45dkPXyGViMLtHadRr6sp&si=lGICZmAvcfPXprHb). 
 
 ## Table of Contents
 
