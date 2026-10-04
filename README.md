@@ -73,10 +73,3 @@ The reading materials of this repo was collected from Coursera under the Creativ
 
 ## License
 This repository is licensed under the MIT License. For more details, please refer to the LICENSE file.
-
-## 🌟 Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=raminmohammadi/MLOps&type=Date)](https://star-history.com/#raminmohammadi/MLOps&Date)
-
-## Contributors
-[![MLOPs contributors](https://contrib.rocks/image?repo=raminmohammadi/MLOps)](https://github.com/raminmohammadi/MLOps/graphs/contributors)
