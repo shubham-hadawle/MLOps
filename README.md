@@ -1,5 +1,3 @@
-[![pages-build-deployment](https://github.com/raminmohammadi/MLOps/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/raminmohammadi/MLOps/actions/workflows/pages/pages-build-deployment)
-
 # MLOps
 
 ## Overview
